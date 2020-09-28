@@ -1,0 +1,10 @@
+PONTO POSITIVO:
+* A facilidade de poder aprender linguagem de programação 
+sem a necessidade de sair de casa.
+
+
+PONTO NEGATIVO:
+* Quando os comandos não funcionam exatamente como o demostrado na aula,
+é frustrante pois como eu ainda não tenho familharidade com os recursos do VsCode,
+Github... 
+
